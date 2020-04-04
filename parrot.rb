@@ -2,6 +2,7 @@
 # returns the phrase
 
 def parrot( phrase="Squawk!" ) do
+  phrase = 
   puts "#{phrase}"
 end
 return phrase
