@@ -4,6 +4,6 @@
 def parrot (string="Squawk!") do
   puts "#{string}" 
 end
-  string
+  tring
   
 end 
